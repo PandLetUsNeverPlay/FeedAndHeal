@@ -1,0 +1,19 @@
+name: FeedAndHeal
+main: LePandiLP\Main
+author: LePandiLP
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  feed:
+    description: Fill your hungerbar
+    permission: feed.cmd
+  heal: 
+    description: Fill your healthbar
+    permission: heal.cmd
+    
+permissions: 
+  feed.cmd:
+    default: op
+  heal.cmd:
+    default: op
