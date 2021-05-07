@@ -1,7 +1,7 @@
 name: FeedAndHeal
 main: LePandiLP\Main
 author: LePandiLP
-version: 1.0.0
+version: 1.1.0
 api: 3.0.0
 
 commands:
