@@ -1,0 +1,13 @@
+#No permission message
+
+no-permission: §cYou do not have permission to use this command!
+
+
+#Feed succesful message
+
+feed-message: §6You succesfully stilled your hunger!
+
+
+#Heal successful message
+
+heal-message: §6You succesfully filled your healthbar!
