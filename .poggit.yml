@@ -5,5 +5,5 @@ branches:
 projects:
   FeedAndHeal:
     path: ""
-    icon: "icon.png"
+    icon: icon.png
 ...
